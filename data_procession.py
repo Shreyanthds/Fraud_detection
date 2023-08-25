@@ -8,8 +8,3 @@ def sum(a,b):
     return a 
 
 print("Added a new function")
-
-
-
-def pow(a,b):
-    return a**b
